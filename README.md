@@ -1,4 +1,4 @@
-ARAS (Additive Ratio Assessment)
+# ARAS (Additive Ratio Assessment)
 ## Installation
 
 ```toml
