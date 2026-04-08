@@ -1,6 +1,10 @@
 ARAS (Additive Ratio Assessment)
 ## Installation
+
+```toml
+[dependencies]
 aras = {git="https://github.com/araxnoid-code/Additive-Ratio-Assessment.git"}
+```
 
 ## Code
 ```rust
